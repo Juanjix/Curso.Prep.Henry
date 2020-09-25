@@ -2,17 +2,24 @@
 
 function invocarCallback(cb) {
   // Invoca al callback `cb`
+  cb();
 }
 
 function sumarArray(numeros, cb) {
   // Suma todos los números enteros (int/integers) de un array ("numeros")
   // Pasa el resultado a `cb`
   // No es necesario devolver nada
+  var total = 0;
+  for (i = 0; i < numeros.length; i++) {
+    total = total + numeros[i];
+  }
+  cb(numeros);
 }
 
 function forEach(array, cb) {
   // Itera sobre la matriz "array" y pasa los valores al callback uno por uno
   // Pista: Estarás invocando a `cb` varias veces (una por cada valor en la matriz)
+  array.forEach()
 }
 
 function map(array, cb) {

@@ -13,6 +13,9 @@
       "author": "Henry",
       "license": "ISC",
       "jest": {
-          "testURL": "http://localhost/"
-        }
+            "testURL": "http://localhost/"
+      },
+      "dependencies": {
+            "npm": "^6.14.8"
+      }
 }

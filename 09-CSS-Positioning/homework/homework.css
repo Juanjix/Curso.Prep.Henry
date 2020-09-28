@@ -34,13 +34,25 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Ejercicio 4: */
 
 /* Acá va tu código */
+#ejercicioCuatro{
+  position: fixed;
+  top: 0px;
+
+}
 
 
 
 /* Ejercicio 5: */
 
 /* Acá va tu código */
+#ejercicioCinco{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10px;
+  direction: rtl;
 
+}
 
 
 /* Ejercicio 6. */

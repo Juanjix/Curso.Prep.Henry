@@ -1,0 +1,19 @@
+Explicación de Conceptos JS II
+
+- FOR : El bucle FOR sirve para repetir una o más veces una instrucción. 
+        Se divide en varias partes, la primera es una variable que sirve como
+        indice para indicar la cantidad de veces que tenemos que iterar.
+        La segunda es la condicion que tiene que cumplir, y la tercera
+        son los cambios que queremos ejecutar.
+
+- && :  El operador logico AND sirve para hacer la comparacion de dos variables.
+        Devuelve true si y solo si las dos operandos son verdaderos, de lo contrario
+        devuelve False.
+
+- || :  El operador logico OR sirve para para comparar dos variables.
+        Si uno de los operandos es verdadero devuelve TRUE, si los dos operandos
+        son Falsos, devuelve false.
+
+- ! : El operador logico NOT sirve para realizar una negacion logica.
+      Sirve para dar vuelta los valores de las expresiones.
+      

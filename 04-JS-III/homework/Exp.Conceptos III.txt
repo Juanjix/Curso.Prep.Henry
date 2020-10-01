@@ -1,0 +1,4 @@
+- Array : Los array's son variables en las cuales podes guardar datos de todo tipo
+          (strings, booleans, numericos ...)
+          Se puede acceder a cada una de esas variables de forma independiente con
+          un indice que nos indica a cual dato queremos hacer referencia.
